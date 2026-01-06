@@ -30,14 +30,18 @@ calculadora-html/
 ├── script.js
 └── README.md
 
+
 ## ▶️ Como Executar
 
-1. Clone o repositório:
+1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calendario-html.git
+   git clone https://github.com/seu-usuario/calculadora-html.git
+
 2. Entre na pasta do projeto:
-cd calendario-html
-3. Abra o arquivo index.html no navegador.
+cd calculadora-html
+3. 📸 Demonstração
+
+Abra o arquivo index.html para visualizar a calculadora em funcionamento.
 
 👨‍💻 Autor
 
